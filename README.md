@@ -1,7 +1,6 @@
 # Automation_Project
-         ubuntu 18.04 LTS,
-
-         s3 bucket 
+ubuntu 18.04 LTS,
+s3 bucket 
          
 This script will first do update by "apt update" command.
 
